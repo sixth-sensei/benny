@@ -181,8 +181,8 @@ li span {
  }
 }
 .footer {
-  position: absolute;
-  bottom: 0;
+  position: center;
+  bottom: 10;
   left: 0;
   z-index: 10;
 
