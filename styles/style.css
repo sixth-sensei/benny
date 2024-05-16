@@ -183,7 +183,7 @@ li span {
 .footer {
   position: fixed;
   left: 0;
-  bottom: 0;
+  bottom: 5;
   width: 100%;
   color: white;
   text-align: center;
