@@ -4,8 +4,8 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'Jan 29, 2020',
-  name: 'Darlene'
+  birthdate: '05/16/2024',
+  name: 'Benita'
 };
 
 function hideEverything() {
@@ -48,8 +48,8 @@ x = setInterval(function() {
     hw = w / 2, // half-width
     hh = h / 2,
     opts = {
-      strings: ['HAPPY', 'BIRTHDAY!', config.name],
-      charSize: 30,
+      strings: ['Happy', '22nd', 'Birthday!', config.name],
+      charSize: 32,
       charSpacing: 35,
       lineHeight: 40,
 

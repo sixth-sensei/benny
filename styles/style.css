@@ -9,13 +9,13 @@ canvas {
   left: 0;
 }
 body {
-  background: #ffffff;
+  background: #86378d;
   overflow: hidden;
 }
 .container {
-  color: rgba(55, 59, 65, 0.8);
-  font-family: Helvetica, sans-serif;
-  font-weight: lighter;
+  color: rgb(255, 255, 255);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, sans-serif;
+  font-weight: normal;
   text-align: center;
 }
 
@@ -50,7 +50,7 @@ li span {
   z-index: 10;
 }
 .giftbox > div {
-  background: #F64747;
+  background: #e6c148;
   position: absolute;
   box-shadow: 5px 10px 18px rgba(0, 0, 0, 0.4);
 }
@@ -61,9 +61,9 @@ li span {
 }
 .giftbox:after {
   position: absolute;
-  color: #fff;
+  color: #ffffff;
   width: 100%;
-  content: "Click Me!";
+  content: "Open for a Surprise!";
   left: 0;
   bottom: 0;
   font-size: 24px;
