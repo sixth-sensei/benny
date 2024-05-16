@@ -180,3 +180,10 @@ li span {
       opacity: 0;
  }
 }
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 10;
+
+}
