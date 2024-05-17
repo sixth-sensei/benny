@@ -22,6 +22,7 @@ body {
 
 h1 {
   font-weight: normal;
+  font-size: medium;
 }
 li {
   display: inline-block;
