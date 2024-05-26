@@ -1,5 +1,3 @@
-import { inject } from "@vercel/analytics"
-
 const count = document.getElementById('count');
 const head = document.getElementById('head');
 const giftbox = document.getElementById('merrywrap');
