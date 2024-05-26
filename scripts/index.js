@@ -1,4 +1,4 @@
-import { Analytics } from "@vercel/analytics/react"
+import { inject } from "@vercel/analytics"
 
 const count = document.getElementById('count');
 const head = document.getElementById('head');
