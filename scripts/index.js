@@ -1,3 +1,5 @@
+import { Analytics } from "@vercel/analytics/react"
+
 const count = document.getElementById('count');
 const head = document.getElementById('head');
 const giftbox = document.getElementById('merrywrap');
